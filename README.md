@@ -1,4 +1,4 @@
-# ☕ Coffee Vending Machine Using Deterministic Finite Automaton (DFA)
+# ☕ Coffee Vending Machine Using Deterministic Finite Automaton (DFA):Brew-Automaton
 
 An interactive web application that demonstrates the working of a **Coffee Vending Machine** using the concepts of **Deterministic Finite Automata (DFA)** from the Theory of Computation. The project provides a visual representation of state transitions, transition functions, accepted/rejected strings, and real-time DFA execution.
 
@@ -6,7 +6,7 @@ An interactive web application that demonstrates the working of a **Coffee Vendi
 
 ## 🚀 Live Demo
 
-https://ashumulik06.github.io/brew-automaton/
+https://ashumulik06.github.io/Brew-Automaton-final/
 
 ---
 
